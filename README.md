@@ -1,2 +1,3 @@
 # Hangman-game
-This is a fun hangman-game that i created using python
+This is a fun hangman-game that i created using python, i have used the dataset of animals here,
+The primary objective of the Python Hangman game is to provide players with an entertaining and educational platform for honing their word-related skills. Players are invited to solve concealed words by guessing letters, employing their vocabulary, spelling, and deduction abilities. The game also seeks to create a sense of achievement and satisfaction when players successfully decipher words, adding a competitive edge to the gaming experience. Through this objective, the game bridges the gap between entertainment and mental exercise.
